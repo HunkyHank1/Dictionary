@@ -1,3 +1,9 @@
+/*
+Henry johnson
+the function of this program is to create an array of different keys and definitions to later be used as a dictionary
+created: 12/8/20
+last edited: 12/9/20
+ */
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
